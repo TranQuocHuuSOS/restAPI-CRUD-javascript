@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 3,
+      "name": "php",
+      "description": "khóa học php cơ bản"
+    },
+    {
+      "name": "laravel",
+      "description": "bạn biết nó chứ",
+      "id": 6
+    },
+    {
+      "name": "typeScript",
+      "description": "typeScript là frontend hay backend",
+      "id": 7
+    }
+  ]
+}
